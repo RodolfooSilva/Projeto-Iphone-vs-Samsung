@@ -3,7 +3,7 @@
 
 * Nesse projrto, foi desenvolvido com Javascript
 
-* Esse projeto foi baseado no tutorial do canal,
+* Esse projeto foi baseado no tutorial do canal, [lyssacavalcanti](https://www.youtube.com/watch?v=UR0Dx9OABnU&t=1771s)
   
  * Quais tecnlogias foram utilizadas? (HTML, CSS, FLEXBOX, Javascript)
   
